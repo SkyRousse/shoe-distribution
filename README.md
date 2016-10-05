@@ -2,7 +2,7 @@
 
 ##### This is the week 4 independent project for the Ruby class at Epicodus. This app is uses a many-to-many relationship between shoe stores and shoe brands using Active Record and a Postgres database.
 
-#### By Sky Rousse
+#### By Sky Rousse skyrousse@gmail.com
 
 ## Objectives
 
